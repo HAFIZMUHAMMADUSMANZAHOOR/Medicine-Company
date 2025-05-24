@@ -27,7 +27,7 @@ function App() {
       <AboutSection />
       <ProductsSection />
       <ServicesSection />
-      <TestimonialsSection />
+      <TestimonialsSection  />
       <ContactSection />
       <Footer />
     </div>
